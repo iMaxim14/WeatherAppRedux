@@ -5,6 +5,7 @@ const globalStyles = css`
 }
 body,
 html {
+  background-image: url('https://hotelvittoria.info/wp-content/uploads/2023/06/Cose-da-fare-in-Val-di-Sole-quando-piove.jpeg');
   height: 100%;
   margin: 0;
   padding: 0;
